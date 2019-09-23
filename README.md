@@ -51,7 +51,7 @@ $ yarn
 Runing the json-server:
 
 ```bash
-$ yarn json-server server.json -p 8080
+$ json-server server.json -p 8080
 ```
 
 Running the development enviroment
