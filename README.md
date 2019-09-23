@@ -1,68 +1,79 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://i.imgur.com/PFIepmE.png">
+</p>
 
-## Available Scripts
+#
 
-In the project directory, you can run:
+This is a web marketplace built with React JS using flux architecture with Redux.
 
-### `npm start`
+The main porpoise of this project is to learn more about the technologie and architecture.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Note
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+This repository is still in building stage. It means that the information provided here can and will constantly update and change as the project evolves, so be aware for the changes!
 
-### `npm test`
+## About this project
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is a simple marketplace where you can add, remove and edit things from your cart and checkout them.
 
-### `npm run build`
+### Pages
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Home page                                      | Cart page
+:-------------------------:                    | :-------------------------:
+<img src="https://i.imgur.com/kXpEHOz.png" />  |  <img src="https://i.imgur.com/YPNRY6R.png" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Contribuing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+You can contribute in many ways, but the most effective is creating a new issue with your sugestion, code, experience, or anything you can think that it will help this project evolve.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting started
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Installing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Cloning the repository
 
-## Learn More
+```bash
+$ https://github.com/gabrielccarvalho/rocketshoes
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+$ cd rocketshoes
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Installing the dependencies
 
-### Code Splitting
+```bash
+$ yarn
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Runing the json-server:
 
-### Analyzing the Bundle Size
+```bash
+$ json-server server.json -p 8080
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Running the development enviroment
 
-### Making a Progressive Web App
+```bash
+$ yarn start
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Note
 
-### Advanced Configuration
+More instructions will come with the updated versions of the project!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Technologies:
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [React](https://reactjs.org/) - Used to build the site.
+- [Redux](https://redux.js.org/) - Used to use flux architecture.
+- [Eslint](https://eslint.org/) - JS Linter and code style.
+- [Prettier](https://github.com/prettier/prettier) - Code formatter.
+- [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start) - Routes management.
+- [Styled Component](https://www.styled-components.com/) - Used to style the site.
+- [React Icons](https://www.npmjs.com/package/react-icons) - Used to get icons.
+- [Polished](https://polished.js.org) - Used to create a fake API for development.
+- [Axios](https://github.com/axios/axios) - Used to manage the API connection.
+- [Axios](https://github.com/axios/axios) - Used to manage the API connection.
+- [Reactotron](https://github.com/infinitered/reactotron) - Used to debug redux.
