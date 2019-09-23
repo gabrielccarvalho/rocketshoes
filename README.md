@@ -18,11 +18,9 @@ This is a simple marketplace where you can add, remove and edit things from your
 
 ### Pages
 
-
-Home page                                      | Cart page
-:-------------------------:                    | :-------------------------:
-<img src="https://i.imgur.com/kXpEHOz.png" />  |  <img src="https://i.imgur.com/YPNRY6R.png" />
-
+|                   Home page                   |                   Cart page                   |
+| :-------------------------------------------: | :-------------------------------------------: |
+| <img src="https://i.imgur.com/kXpEHOz.png" /> | <img src="https://i.imgur.com/YPNRY6R.png" /> |
 
 ## Contribuing
 
@@ -77,3 +75,4 @@ More instructions will come with the updated versions of the project!
 - [Axios](https://github.com/axios/axios) - Used to manage the API connection.
 - [Axios](https://github.com/axios/axios) - Used to manage the API connection.
 - [Reactotron](https://github.com/infinitered/reactotron) - Used to debug redux.
+- [Immer](https://github.com/immerjs/immer) - Used to handle immutable arrays / objects.
