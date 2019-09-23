@@ -33,11 +33,11 @@ You can contribute in many ways, but the most effective is creating a new issue 
 Cloning the repository
 
 ```bash
-$ https://github.com/gabrielccarvalho/devjobs
+$ https://github.com/gabrielccarvalho/rocketshoes
 ```
 
 ```bash
-$ cd devjobs
+$ cd rocketshoes
 ```
 
 Installing the dependencies
