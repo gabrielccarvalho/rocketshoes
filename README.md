@@ -76,3 +76,4 @@ More instructions will come with the updated versions of the project!
 - [Axios](https://github.com/axios/axios) - Used to manage the API connection.
 - [Reactotron](https://github.com/infinitered/reactotron) - Used to debug redux.
 - [Immer](https://github.com/immerjs/immer) - Used to handle immutable arrays / objects.
+- [Redux Saga](https://github.com/redux-saga/redux-saga) - Used as a side effect model.
