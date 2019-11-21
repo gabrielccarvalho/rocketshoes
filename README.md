@@ -46,6 +46,12 @@ Installing the dependencies
 $ yarn
 ```
 
+Installing json-server globally:
+
+```bash
+$ npm install -g json-server
+```
+
 Runing the json-server:
 
 ```bash
@@ -64,16 +70,15 @@ More instructions will come with the updated versions of the project!
 
 ## Technologies:
 
-- [React](https://reactjs.org/) - Used to build the site.
-- [Redux](https://redux.js.org/) - Used to use flux architecture.
+- [Axios](https://github.com/axios/axios) - Used to manage the API connection.
 - [Eslint](https://eslint.org/) - JS Linter and code style.
-- [Prettier](https://github.com/prettier/prettier) - Code formatter.
-- [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start) - Routes management.
-- [Styled Component](https://www.styled-components.com/) - Used to style the site.
-- [React Icons](https://www.npmjs.com/package/react-icons) - Used to get icons.
-- [Polished](https://polished.js.org) - Used to create a fake API for development.
-- [Axios](https://github.com/axios/axios) - Used to manage the API connection.
-- [Axios](https://github.com/axios/axios) - Used to manage the API connection.
-- [Reactotron](https://github.com/infinitered/reactotron) - Used to debug redux.
 - [Immer](https://github.com/immerjs/immer) - Used to handle immutable arrays / objects.
+- [Json-Server](https://github.com/typicode/json-server) - Used to create a fake API for development.
+- [Prettier](https://github.com/prettier/prettier) - Code formatter.
+- [React](https://reactjs.org/) - Used to build the site.
+- [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start) - Routes management.
+- [React Icons](https://www.npmjs.com/package/react-icons) - Used to get icons.
+- [Reactotron](https://github.com/infinitered/reactotron) - Used to debug redux.
+- [Redux](https://redux.js.org/) - Used to use flux architecture.
 - [Redux Saga](https://github.com/redux-saga/redux-saga) - Used as a side effect model.
+- [Styled Component](https://www.styled-components.com/) - Used to style the site.
