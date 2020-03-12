@@ -70,8 +70,9 @@ More instructions will come with the updated versions of the project!
 
 ## What I learned with the project 📚
 - [ ] Deep knowledge in ReactJS.
-- [ ] Learned to build sites using the flux architecture.
-- [ ] Improved my knowledge in stylied components library.
+- [ ] Build sites using the flux architecture.
+- [ ] Improved my knowledge in styled components library.
+- [ ] Improved my knowledge in connecting and retrieving information from API.
 
 ## Technologies 🖥
 
