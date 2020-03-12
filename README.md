@@ -8,11 +8,11 @@ This is a web marketplace built with React JS using flux architecture with Redux
 
 The main porpoise of this project is to learn more about the technologie and architecture.
 
-## Note
+## Note 📝
 
 This repository is still in building stage. It means that the information provided here can and will constantly update and change as the project evolves, so be aware for the changes!
 
-## About this project
+## About this project 📚
 
 This is a simple marketplace where you can add, remove and edit things from your cart and checkout them.
 
@@ -22,13 +22,13 @@ This is a simple marketplace where you can add, remove and edit things from your
 | :-------------------------------------------: | :-------------------------------------------: |
 | <img src="https://i.imgur.com/kXpEHOz.png" /> | <img src="https://i.imgur.com/YPNRY6R.png" /> |
 
-## Contribuing
+## Contribuing 🖊
 
 You can contribute in many ways, but the most effective is creating a new issue with your sugestion, code, experience, or anything you can think that it will help this project evolve.
 
-## Getting started
+## Getting started 💡
 
-### Installing
+### Installing ⚙️
 
 Cloning the repository
 
@@ -64,11 +64,11 @@ Running the development enviroment
 $ yarn start
 ```
 
-### Note
+### Note 📝
 
 More instructions will come with the updated versions of the project!
 
-## Technologies:
+## Technologies 🖥
 
 - [Axios](https://github.com/axios/axios) - Used to manage the API connection.
 - [Eslint](https://eslint.org/) - JS Linter and code style.
