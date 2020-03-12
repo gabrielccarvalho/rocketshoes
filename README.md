@@ -12,7 +12,7 @@ The main porpoise of this project is to learn more about the technologie and arc
 
 This repository is still in building stage. It means that the information provided here can and will constantly update and change as the project evolves, so be aware for the changes!
 
-## About this project 📚
+## About this project 📓
 
 This is a simple marketplace where you can add, remove and edit things from your cart and checkout them.
 
@@ -67,6 +67,11 @@ $ yarn start
 ### Note 📝
 
 More instructions will come with the updated versions of the project!
+
+## What I learned with the project 📚
+- [ ] Deep knowledge in ReactJS.
+- [ ] Learned to build sites using the flux architecture.
+- [ ] Improved my knowledge in stylied components library.
 
 ## Technologies 🖥
 
